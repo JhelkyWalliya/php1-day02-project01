@@ -3,7 +3,7 @@
 //membuat Variabel
 $title = ' Basisc Sserver-Side Programing Batch I 2022';
 $day = 'day 02';
-$tarainer = 'Jhelky Walliya';
+$trainer = 'Jhelky Walliya';
 
 ?>
 
@@ -19,7 +19,7 @@ $tarainer = 'Jhelky Walliya';
 <body>
 	<h1><?php echo $title;?></h1>
 	<p><?php echo $day;?></p>
-	<small><?php echo $Stariner;?></small>
+	<small><?php echo $trainer;?></small>
 
 </body>
 </html>
